@@ -1,0 +1,5 @@
+Git Bash Push
+access directory cd /file.path/
+git add .
+git commit -m ""
+git push origin main
